@@ -1,0 +1,239 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+/*#################################*/
+/*########## MENU INICIAL #######*/
+/*#################################*/
+#initial-bar {
+    height: 90px;
+    width: 100%;
+    background-color: gray;
+    position: absolute;
+}
+#box-find::placeholder {
+    color: black;
+}
+.box-bars {
+    position: relative;
+    top: 5px;
+    left: 15px;
+    float: left;
+}
+#content-logo {
+    width: 100px;
+    height: 80px;
+    float: left;
+}
+#content-name {
+    width: 175px;
+    height: 80px;
+    float: left;
+}
+#logo-ds {
+    height: 20px;
+    width: 210px; 
+    position: relative;
+    top: 12px;
+    left: 5px;
+}
+#logo {
+    position: relative;
+    left: 10px;
+}
+#logo-name {
+    font-family: "Poppins", sans-serif;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+/*#################################*/
+/*########## CONTENIDO ############*/
+/*#################################*/
+#cnt-initial {
+    background-color: rgb(73, 73, 73);
+    height: 100%;
+}
+#title-ad {
+    background-color: chartreuse;
+    width: 1620px;
+    height: 100px;
+    position: relative;
+    top: 150px;
+    left: 120px;
+}
+#cnt-title {
+    background-color: chartreuse;
+    position: relative;
+    float: left;
+}
+#cnt-subt {
+    background-color: chartreuse;
+    float: left;
+    position: relative;
+}
+#cnt-img {
+    float: left;
+    position: relative;
+}
+
+
+/*/// Pantalla LG (Comentario provisorio)*/
+@media only screen and (max-width: 1920px){
+    #box-logo {
+        height: 80px;
+        width: 350px;
+    }
+    #box-search {
+        height: 80px;
+        width: 1100px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    #bar-options {
+        height: 70px;
+        width: 1090px;
+        position: relative;
+        top: 5px;
+        left: 5px;
+        text-align: center;
+        color:  white;
+    }
+    .options-link {
+        font-size: 25px;
+        font-family: "Popins", sans-serif;
+        font-weight: lighter;
+        padding-left: 40px;
+        padding-right: 40px;
+        position: relative;
+        top: 20px;
+    }
+    #box-busqued {
+        height: 80px;
+        width: 380px;
+    }
+    #box-find {
+        width: 360px;
+        height: 30px;
+        position: relative;
+        top: 25.5px;
+        left: 10px;
+        padding-left: 10px;
+        border-radius: 15px;
+    }
+    #cnt-title {
+        height: 300px;
+        width: 700px;
+        left: 120px;
+        top: 200px;
+    }
+    #cnt-subt {
+        height: 130px;
+        width: 700px;
+        top: 65px;
+        left: 120px;
+    }
+    #cnt-img {
+        height: 453px;
+        width: 840px;
+        left: 205px;
+        top: 200px;
+    }
+    #img-ad {
+        height: 453px;
+        width: 840px;
+    }
+
+}
+
+/*/// Pantalla Phillips (Comentario provisorio)*/
+@media only screen and (max-width: 1360px) {
+    #box-logo {
+        height: 80px;
+        width: 275px;
+    }
+    #box-search {
+        height: 80px;
+        width: 710px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    #bar-options {
+        height: 70px;
+        width: 700px;
+        position: relative;
+        top: 5px;
+        left: 5px;
+        text-align: center;
+        color:  white;
+    }
+    .options-link {
+        font-size: 20px;
+        font-family: "Popins", sans-serif;
+        font-weight: lighter;
+        padding-left: 15px;
+        padding-right: 15px;
+        position: relative;
+        top: 20px;
+    }
+    #box-busqued {
+        height: 80px;
+        width: 330px;
+    }
+    #box-find {
+        width: 310px;
+        height: 30px;
+        position: relative;
+        top: 25.5px;
+        left: 10px;
+        padding-left: 10px;
+        border-radius: 15px;
+    }
+    #cnt-title {
+        height: 190px;
+        width: 500px;
+        left: 50px;
+        top: 150px;
+    }
+    #cnt-subt {
+        height: 90px;
+        width: 500px;
+        top: 60px;
+        left: 50px;
+    }
+    #cnt-img {
+        height: 330px;
+        width: 612px;
+        left: 100px;
+        top: 150px;
+    }
+    #img-ad {
+        height: 330px;
+        width: 612px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
