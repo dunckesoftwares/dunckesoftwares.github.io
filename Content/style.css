@@ -4,18 +4,11 @@
 /*===========================================================*/
 /*===========================================================*/
 
-body {
-}
 
-.cont {
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background-color: red;
-}
+
+
 
 header, footer {
-    position: absolute;
     width: 100%;
     background-color: black;
     color: white;
@@ -27,10 +20,68 @@ header {
     margin: 0%;
     padding: 0%;
     top: 0px;
+    opacity: 0.5;
 }
 
 footer {
     margin: 0%;
     padding: 0%;
     bottom: 0px;
+    opacity: 0.5;
+}
+
+/*===================================================*/
+@media (min-width: 100px) and (max-width: 390px){
+    .cont {
+        height: 500px;
+        width: 100%;
+        background-color: rgb(122, 96, 96);
+    }
+    .content1 {
+        height: 500px;
+        margin-top: 30px;
+        background-color: yellow;
+    }
+    .content2 {
+        height: 500px;
+        background-color: rgb(255, 94, 0);
+        margin-top: 50px;
+    }
+    .content3 {
+        height: 400px;
+        background-color: rgb(102, 255, 0);
+        margin-top: 50px;
+    }
+    .content4 {
+        height: 350px;
+        width: 90%;
+        background-color: rgb(0, 132, 255);
+        margin-top: 25px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .content5 {
+        height: 350px;
+        width: 90%;
+        background-color: rgb(0, 255, 128);
+        margin-top: 25px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .content6 {
+        height: 600px;
+        background-color: rgb(110, 110, 110);
+        margin-top: 25px;
+    }
+
+
+    footer {
+        height: 200px;
+        margin: 0%;
+        margin-top: 40px;
+        padding: 0%;
+        bottom: 0px;
+    }
+
+
 }
