@@ -8,6 +8,7 @@
 /*=====================*/
 .navbar-brand {
     flex-grow: 1;
+    text-align: center;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: rgb(255, 255, 255);
@@ -15,8 +16,14 @@
 .bg-dark {
     background-color: rgb(22, 19, 19)!important;
 }
+@media (min-width: 992px) and (max-width: 2000px){
+    #btnSearcher {
+        display: none;
+    }
+}
 
-
+/*===================================================*/
+/*========       XS EXTRA SMALL SCREEN       ========*/
 /*===================================================*/
 @media (min-width: 100px) and (max-width: 390px){
     /*=====================*/
@@ -29,18 +36,52 @@
     /*=====================*/
     .cont {
         height: 500px;
-        background-color: red;
+        width: 100%;
+        background-color: rgb(146, 0, 0);
     }
+    /*==========================*/
+    /*======= CONTENIDO 1 ======*/
     .content1 {
         height: 500px;
         width: 100%;
         margin-top: 30px;
-        background-color: yellow;
+        background-color: rgb(177, 177, 177);
+        text-align: center;
     }
+    #titlePrd_1 {
+        font-size: 40px;
+        font-family: sans-serif;
+        font-style: italic;
+        font-weight: 600;
+        color: rgb(93, 93, 93);
+        position: relative;
+        top: 30px;
+    }
+    #textPrd_1 {
+        font-family: 25px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        position: relative;
+        top: 2%;
+        color: gray;
+        width: 80%;
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    #linkPrd_1 {
+        font-size: 15px;
+        font-family: sans-serif;
+        position: relative;
+        top: 25px;
+        text-decoration-line: none;
+        padding: 10px;
+        border-radius: 10px;
+        background-color: rgb(167, 167, 167);
+    }
+    /*==========================*/
+    /*======= CONTENIDO 2 ======*/
     .content2 {
         height: 500px;
-        width: 100%;
-        background-color: rgb(255, 94, 0);
+        background-color: rgb(49, 28, 28);
         margin-top: 50px;
     }
     .content3 {
