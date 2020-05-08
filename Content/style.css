@@ -16,13 +16,32 @@
 .bg-dark {
     background-color: rgb(22, 19, 19)!important;
 }
-
 @media (min-width: 992px) and (max-width: 2000px){
     #btnSearcher {
         display: none;
     }
 }
 
+/*=====================*/
+/*       FOOTER        */
+/*=====================*/
+#myDSFoot {
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(22, 22, 22);
+    position: relative;
+    bottom: 0%;
+}
+#DSTC {
+    font-size: 11px;
+}
+#DSCopiright {
+    font-size: 12px;
+}
+#DSMarc {
+    color: white;
+}
 /*===================================================*/
 /*========       XS EXTRA SMALL SCREEN       ========*/
 /*===================================================*/
@@ -55,6 +74,7 @@
     }
     /*==========================*/
     /*======= CONTENIDO 1 ======*/
+    /*==========================*/
     .content1 {
         height: 500px;
         width: 100%;
@@ -110,6 +130,7 @@
 
     /*==========================*/
     /*======= CONTENIDO 2 ======*/
+    /*==========================*/
     .content2 {        
         height: 500px;
         width: 100%;
@@ -159,41 +180,184 @@
     }
     #sdnBox {
         width: 100%;
-        height: 128px;
-        margin-top: 5%;
+        height: 160px;
+        margin-top: 1%;
     }
     /*==========================*/
-    /*======= CONTENIDO 2 ======*/
+    /*======= CONTENIDO 3 ======*/
+    /*==========================*/
     .content3 {
         height: 400px;
         width: 100%;
-        background-color: rgb(102, 255, 0);
+        background-color: rgb(141, 140, 138);
         margin-top: 50px;
+        text-align: center;
     }
+    #boxTSPrg {
+        width: 100%;
+        height: 130px;
+        padding: 5px;
+    }
+    #SPrgTitle {
+        position: relative;
+        top: 30px;
+        font-size: 27px;
+        color: rgb(0, 0, 0);
+        font-weight: 600;
+    }
+    #SPrgLink {
+        color: rgb(16, 83, 144);
+    }
+    #SPrgLogo {
+        position: relative;
+        top: 50px;
+    }
+    /*==========================*/
+    /*======= CONTENIDO 4 ======*/
+    /*==========================*/
     .content4 {
         height: 350px;
         width: 100%;
-        background-color: rgb(0, 132, 255);
+        background-color: rgb(204, 204, 204);
         margin-top: 25px;
         margin-left: 15px;
         margin-right: 15px;
+        border-radius: 150px;
+        text-align: center;
     }
+    #boxSASPrg {
+        width: 80%;
+        height: 80px;
+        margin-left: 10%;
+        position: relative;
+        top: 55px;
+    }
+    #SASTitle {
+        font-size: 25px;
+        font-weight: 600;
+        color: black;
+    }
+    #SASPrgLogo {
+        position: relative;
+        top: 80px;
+    }
+    /*==========================*/
+    /*======= CONTENIDO 5 ======*/
+    /*==========================*/
     .content5 {
         height: 350px;
         width: 100%;
-        background-color: rgb(0, 255, 128);
+        background-color: rgb(207, 207, 207);
         margin-top: 25px;
         margin-left: 15px;
         margin-right: 15px;
+        border-radius: 150px;
+        text-align: center;
     }
+    #boxDRPPrg {
+        width: 80%;
+        height: 80px;
+        margin-left: 10%;
+        position: relative;
+        top: 55px;
+    }
+    #DRPTitle {
+        font-size: 25px;
+        font-weight: 600;
+        color: black;
+    }
+    #DRPPrgLogo {
+        position: relative;
+        top: 80px;
+    }
+    /*==========================*/
+    /*======= CONTENIDO 6 ======*/
+    /*==========================*/
     .content6 {
-        height: 600px;
+        height: 500px;
         width: 100%;
         background-color: rgb(110, 110, 110);
-        margin-top: 25px;
+        margin-top: 50px;
+        text-align: center;
+    }
+    #DSLogo {
+        margin-top: 15%;
+        width: 267px;
+        height: 215px;
+    }
+    #boxTitleLogo {
+        height: 50px;
+        width: 100%;
+    }
+    #DSLogoLink {
+        color: white;
+        font-size: 30px;
+    }
+    #boxInfoLogo {
+        margin-top: 50px;
+        height: 100px;
+        width: 100%;
+        text-align: center;
+    }
+    #DSKnowLink {
+        color: rgb(41, 80, 151);
+        font-size: 15px;
+        font-weight: 600;
+    }
+    #DSText {
+        font-size: 11px;
+        margin-left: 10%;
+        margin-top: 5%;
+        width: 80%;
+        height: 50px;
     }
 
-
-
-
+    /*================*/
+    /*===== REDES ====*/
+    /*================*/
+    #FootBox {
+        margin-top: 50px;
+        height: 150px;
+        width: 100%;
+        text-align: center;
+    }
+    .DSNetIcons {
+        height: 32px;
+        width: 32px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    #DSBoxRegister {
+        margin-top: 20px;
+        height: 70px;
+        width: 100%;
+    }
+    #DSInputEmail {
+        width: 45%;
+        height: 26px;
+        font-size: 11px;
+        padding-left: 10px;
+        border-color: transparent;
+        background-color: rgb(209, 209, 209);
+    }
+    #DSButtonReg {
+        height: 26px;
+        width: 25%;
+        position: relative;
+        right: 1%;
+        padding: 3px;
+        font-size: 11px;
+        background-color: rgb(187, 187, 187);
+        border-color: transparent;
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    #DSTextReg {
+        margin-top: 10px;
+        margin-left: 10%;
+        width: 80%;
+        height: 30px;
+        font-size: 10px;
+        text-align: center;
+    }
 }
