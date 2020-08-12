@@ -103,199 +103,28 @@ a:hover {
     /*==========================*/
     /*======= CONTENIDO 1 ======*/
     /*==========================*/
-    .content1 {
-        height: 500px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_1 {
-        font-size: 40px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_1 {
-        font-size: 17px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        top: 2%;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 10%;
-        margin-left: 10%;
-    }
-    #linkboxPrd1 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_1 {
-        position: relative;
-        top: 10px;
-        font-size: 15px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_A1 {
-        font-size: 15px;
-        font-family: sans-serif;
-        position: relative;
-        top: 25px;
-        text-decoration-line: none;
-        padding: 10px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #mwaBox {
-        width: 100%;
-        height: 128px;
-        margin-top: 5%;
-    }
+
 
     /*==========================*/
     /*======= CONTENIDO 2 ======*/
     /*==========================*/
-    .content2 {        
-        height: 500px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_2 {
-        font-size: 30px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_2 {
-        font-size: 17px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        top: 2%;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 10%;
-        margin-left: 10%;
-    }
-    #linkboxPrd2 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_2 {
-        position: relative;
-        top: 10px;
-        font-size: 15px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_2A {
-        font-size: 15px;
-        font-family: sans-serif;
-        position: relative;
-        top: 25px;
-        text-decoration-line: none;
-        padding: 10px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #sdnBox {
-        width: 100%;
-        height: 160px;
-        margin-top: 1%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 3 ======*/
     /*==========================*/
-    .content3 {
-        height: 400px;
-        width: 100%;
-        background-color: rgb(141, 140, 138);
-        margin-top: 50px;
-        text-align: center;
-    }
-    #boxTSPrg {
-        width: 100%;
-        height: 130px;
-        padding: 5px;
-    }
-    #SPrgTitle {
-        position: relative;
-        top: 30px;
-        font-size: 27px;
-        color: rgb(0, 0, 0);
-        font-weight: 600;
-    }
-    #SPrgLink {
-        color: rgb(16, 83, 144);
-        position: relative;
-        top: 50px;
-    }
-    #SPrgLogo {
-        position: relative;
-        top: 50px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 4 ======*/
     /*==========================*/
-    #cont4and5 {
-        height: 750px;
-        width: 100%;
-        background-color: gainsboro;
-    }
-    .content4 {
-        height: 350px;
-        width: 100%;
-        background-color: rgb(204, 204, 204);
-        text-align: center;
-    }
-    #boxSASPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #SASTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #SASPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 5 ======*/
     /*==========================*/
-    .content5 {
-        height: 350px;
-        width: 100%;
-        background-color: rgb(207, 207, 207);
-        margin-top: 25px;
-        text-align: center;
-    }
-    #boxDRPPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #DRPTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #DRPPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
+    
     /*==========================*/
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
@@ -429,197 +258,28 @@ a:hover {
     /*==========================*/
     /*======= CONTENIDO 1 ======*/
     /*==========================*/
-    .content1 {
-        height: 530px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_1 {
-        font-size: 40px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_1 {
-        font-size: 18px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        top: 1%;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 10%;
-        margin-left: 10%;
-    }
-    #linkboxPrd1 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_1 {
-        font-size: 15px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_A1 {
-        font-size: 15px;
-        font-family: sans-serif;
-        position: relative;
-        top: 25px;
-        text-decoration-line: none;
-        padding: 10px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #mwaBox {
-        width: 100%;
-        height: 128px;
-        margin-top: 3%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 2 ======*/
     /*==========================*/
-    .content2 {        
-        height: 520px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_2 {
-        font-size: 40px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_2 {
-        font-size: 17px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        top: 2%;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 10%;
-        margin-left: 10%;
-    }
-    #linkboxPrd2 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_2 {
-        position: relative;
-        top: 10px;
-        font-size: 15px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_2A {
-        font-size: 15px;
-        font-family: sans-serif;
-        position: relative;
-        top: 25px;
-        text-decoration-line: none;
-        padding: 10px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #sdnBox {
-        width: 100%;
-        height: 160px;
-        margin-top: 1%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 3 ======*/
     /*==========================*/
-    .content3 {
-        height: 400px;
-        width: 100%;
-        background-color: rgb(141, 140, 138);
-        margin-top: 50px;
-        text-align: center;
-    }
-    #boxTSPrg {
-        width: 100%;
-        height: 130px;
-        padding: 5px;
-    }
-    #SPrgTitle {
-        position: relative;
-        top: 30px;
-        font-size: 30px;
-        color: rgb(0, 0, 0);
-        font-weight: 600;
-    }
-    #SPrgLink {
-        position: relative;
-        top: 50px;
-        color: rgb(16, 83, 144);
-    }
-    #SPrgLogo {
-        position: relative;
-        top: 50px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 4 ======*/
     /*==========================*/
-    #cont4and5 {
-        height: 750px;
-        width: 100%;
-        background-color: gainsboro;
-    }
 
-    .content4 {
-        height: 350px;
-        width: 100%;
-        background-color: rgb(204, 204, 204);
-        text-align: center;
-    }
-    #boxSASPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #SASTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #SASPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
     /*==========================*/
     /*======= CONTENIDO 5 ======*/
     /*==========================*/
-    .content5 {
-        height: 350px;
-        width: 100%;
-        background-color: rgb(207, 207, 207);
-        margin-top: 25px;
-        text-align: center;
-    }
-    #boxDRPPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #DRPTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #DRPPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
@@ -758,205 +418,27 @@ a:hover {
     /*==========================*/
     /*======= CONTENIDO 1 ======*/
     /*==========================*/
-    .content1 {
-        height: 530px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_1 {
-        font-size: 43px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_1 {
-        font-size: 19px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        top: 1%;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 6%;
-        margin-left: 10%;
-    }
-    #linkboxPrd1 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_1 {
-        font-size: 17px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_A1 {
-        font-size: 17px;
-        font-family: sans-serif;
-        position: relative;
-        top: 35px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #mwaBox {
-        width: 100%;
-        height: 128px;
-        margin-top: 5%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 2 ======*/
     /*==========================*/
-    .content2 {        
-        height: 520px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_2 {
-        font-size: 43px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_2 {
-        font-size: 17px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        top: 2%;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 6%;
-        margin-left: 10%;
-    }
-    #linkboxPrd2 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_2 {
-        position: relative;
-        top: 10px;
-        font-size: 17px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_2A {
-        font-size: 17px;
-        font-family: sans-serif;
-        position: relative;
-        top: 45px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #sdnBox {
-        width: 100%;
-        height: 160px;
-        margin-top: 5%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 3 ======*/
     /*==========================*/
-    .content3 {
-        height: 400px;
-        width: 100%;
-        background-color: rgb(141, 140, 138);
-        margin-top: 50px;
-        text-align: center;
-    }
-    #boxTSPrg {
-        width: 100%;
-        height: 130px;
-        padding: 5px;
-    }
-    #SPrgTitle {
-        position: relative;
-        top: 30px;
-        font-size: 37px;
-        color: rgb(0, 0, 0);
-        font-weight: 600;
-    }
-    #SPrgLink {
-        position: relative;
-        top: 55px;
-        font-size: 17px;
-        color: rgb(16, 83, 144);
-    }
-    #SPrgLogo {
-        position: relative;
-        top: 90px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 4 ======*/
     /*==========================*/
-    #cont4and5 {
-        height: 750px;
-        width: 100%;
-        background-color: gainsboro;
-    }
 
-    .content4 {
-        height: 350px;
-        width: 70%;
-        background-color: rgb(204, 204, 204);
-        position: relative;
-        top: 20px;
-        margin-left: 15%;
-        margin-right: 15%;
-        text-align: center;
-    }
-    #boxSASPrg {
-        width: 80%;
-        height: 80px;
 
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #SASTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #SASPrgLogo {
-        position: relative;
-        top: 80px;
-    }
     /*==========================*/
     /*======= CONTENIDO 5 ======*/
     /*==========================*/
-    .content5 {
-        height: 350px;
-        width: 70%;
-        background-color: rgb(207, 207, 207);
-        margin-top: 25px;
-        margin-left: 15%;
-        margin-right: 15%;
-        text-align: center;
-    }
-    #boxDRPPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #DRPTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #DRPPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
     /*==========================*/
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
@@ -1095,212 +577,28 @@ a:hover {
     /*==========================*/
     /*======= CONTENIDO 1 ======*/
     /*==========================*/
-    .content1 {
-        height: 550px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_1 {
-        font-size: 55px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_1 {
-        font-size: 22px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 6%;
-        margin-left: 10%;
-    }
-    #linkboxPrd1 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_1 {
-        font-size: 22px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_A1 {
-        font-size: 20px;
-        font-family: sans-serif;
-        position: relative;
-        top: 35px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #mwaBox {
-        width: 100%;
-        height: 128px;
-        margin-top: 5%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 2 ======*/
     /*==========================*/
-    .content2 {        
-        height: 550px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_2 {
-        font-size: 45px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_2 {
-        font-size: 22px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 4%;
-        margin-left: 10%;
-    }
-    #linkboxPrd2 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_2 {
-        position: relative;
-        top: 10px;
-        font-size: 20px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_2A {
-        font-size: 20px;
-        font-family: sans-serif;
-        position: relative;
-        top: 45px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #sdnBox {
-        width: 100%;
-        height: 160px;
-        margin-top: 5%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 3 ======*/
     /*==========================*/
-    .content3 {
-        height: 300px;
-        width: 100%;
-        background-color: rgb(141, 140, 138);
-        margin-top: 50px;
-    }
-    #boxTSPrg {
-        width: 60%;
-        height: 300px;
-        text-align: center;
-        padding: 30px;
-        float: left;
-    }
-    #boxTSaimg {
-        float: left;
-        text-align: left;
-        width: 40%;
-        height: 300px;
-        padding-top: 30px;
-        padding-left: 25px;
-    }
-    #SPrgTitle {
-        position: relative;
-        top: 30px;
-        left: 45px;
-        font-size: 37px;
-        color: rgb(0, 0, 0);
-        font-weight: 600;
-    }
-    #SPrgLink {
-        position: relative;
-        top: 55px;
-        left: 45px;
-        font-size: 17px;
-        color: rgb(16, 83, 144);
-    }
-    #SPrgLogo {
-        position: relative;
-        top: 50px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 4 ======*/
     /*==========================*/
-    #cont4and5 {
-        height: 400px;
-        width: 100%;
-        background-color: gainsboro;
-    }
 
-    .content4 {
-        height: 350px;
-        width: 40%;
-        background-color: rgb(204, 204, 204);
-        margin-top: 25px;
-        margin-left: 9%;
-        text-align: center;
-        float: left;
-    }
-    #boxSASPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #SASTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #SASPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
     /*==========================*/
     /*======= CONTENIDO 5 ======*/
     /*==========================*/
-    .content5 {
-        height: 350px;
-        width: 40%;
-        background-color: rgb(207, 207, 207);
-        margin-top: 25px;
-        margin-left: 2%;
-        text-align: center;
-        float: left;
-    }
-    #boxDRPPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #DRPTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #DRPPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
@@ -1439,212 +737,28 @@ a:hover {
     /*==========================*/
     /*======= CONTENIDO 1 ======*/
     /*==========================*/
-    .content1 {
-        height: 550px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_1 {
-        font-size: 55px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_1 {
-        font-size: 22px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 6%;
-        margin-left: 10%;
-    }
-    #linkboxPrd1 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_1 {
-        font-size: 22px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_A1 {
-        font-size: 20px;
-        font-family: sans-serif;
-        position: relative;
-        top: 35px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #mwaBox {
-        width: 100%;
-        height: 128px;
-        margin-top: 5%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 2 ======*/
     /*==========================*/
-    .content2 {        
-        height: 550px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_2 {
-        font-size: 45px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_2 {
-        font-size: 22px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 4%;
-        margin-left: 10%;
-    }
-    #linkboxPrd2 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_2 {
-        position: relative;
-        top: 10px;
-        font-size: 20px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_2A {
-        font-size: 20px;
-        font-family: sans-serif;
-        position: relative;
-        top: 45px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #sdnBox {
-        width: 100%;
-        height: 160px;
-        margin-top: 5%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 3 ======*/
     /*==========================*/
-    .content3 {
-        height: 350px;
-        width: 100%;
-        background-color: rgb(141, 140, 138);
-        margin-top: 50px;
-    }
-    #boxTSPrg {
-        width: 60%;
-        height: 350px;
-        text-align: center;
-        padding: 45px;
-        float: left;
-    }
-    #boxTSaimg {
-        float: left;
-        text-align: left;
-        width: 40%;
-        height: 350px;
-        padding-top: 45px;
-        padding-left: 25px;
-    }
-    #SPrgTitle {
-        position: relative;
-        top: 30px;
-        left: 45px;
-        font-size: 37px;
-        color: rgb(0, 0, 0);
-        font-weight: 600;
-    }
-    #SPrgLink {
-        position: relative;
-        top: 55px;
-        left: 45px;
-        font-size: 17px;
-        color: rgb(16, 83, 144);
-    }
-    #SPrgLogo {
-        position: relative;
-        top: 50px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 4 ======*/
     /*==========================*/
-    #cont4and5 {
-        height: 400px;
-        width: 100%;
-        background-color: gainsboro;
-    }
 
-    .content4 {
-        height: 350px;
-        width: 40%;
-        background-color: rgb(204, 204, 204);
-        margin-top: 25px;
-        margin-left: 9%;
-        text-align: center;
-        float: left;
-    }
-    #boxSASPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #SASTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #SASPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
     /*==========================*/
     /*======= CONTENIDO 5 ======*/
     /*==========================*/
-    .content5 {
-        height: 350px;
-        width: 40%;
-        background-color: rgb(207, 207, 207);
-        margin-top: 25px;
-        margin-left: 2%;
-        text-align: center;
-        float: left;
-    }
-    #boxDRPPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #DRPTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #DRPPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
@@ -1785,210 +899,28 @@ a:hover {
     /*==========================*/
     /*======= CONTENIDO 1 ======*/
     /*==========================*/
-    .content1 {
-        height: 550px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_1 {
-        font-size: 35px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_1 {
-        font-size: 19px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 8%;
-        margin-left: 10%;
-    }
-    #linkboxPrd1 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_1 {
-        font-size: 19px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_A1 {
-        font-size: 18px;
-        font-family: sans-serif;
-        position: relative;
-        top: 35px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #mwaBox {
-        width: 100%;
-        height: 128px;
-        margin-top: 10%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 2 ======*/
     /*==========================*/
-    .content2 {        
-        height: 550px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_2 {
-        font-size: 35px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_2 {
-        font-size: 19px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 8%;
-        margin-left: 10%;
-    }
-    #linkboxPrd2 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_2 {
-        font-size: 19px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_2A {
-        font-size: 18px;
-        font-family: sans-serif;
-        position: relative;
-        top: 25px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #sdnBox {
-        width: 100%;
-        height: 160px;
-        margin-top: 5%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 3 ======*/
     /*==========================*/
-    .content3 {
-        height: 350px;
-        width: 100%;
-        background-color: rgb(141, 140, 138);
-        margin-top: 50px;
-    }
-    #boxTSPrg {
-        width: 60%;
-        height: 350px;
-        text-align: center;
-        padding: 45px;
-        float: left;
-    }
-    #boxTSaimg {
-        float: left;
-        text-align: left;
-        width: 40%;
-        height: 350px;
-        padding-top: 45px;
-        padding-left: 25px;
-    }
-    #SPrgTitle {
-        position: relative;
-        top: 30px;
-        left: 45px;
-        font-size: 37px;
-        color: rgb(0, 0, 0);
-        font-weight: 600;
-    }
-    #SPrgLink {
-        position: relative;
-        top: 55px;
-        left: 45px;
-        font-size: 17px;
-        color: rgb(16, 83, 144);
-    }
-    #SPrgLogo {
-        position: relative;
-        top: 50px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 4 ======*/
     /*==========================*/
-    #cont4and5 {
-        height: 400px;
-        width: 100%;
-        background-color: gainsboro;
-    }
 
-    .content4 {
-        height: 350px;
-        width: 40%;
-        background-color: rgb(204, 204, 204);
-        margin-top: 25px;
-        margin-left: 9%;
-        text-align: center;
-        float: left;
-    }
-    #boxSASPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #SASTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #SASPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
     /*==========================*/
     /*======= CONTENIDO 5 ======*/
     /*==========================*/
-    .content5 {
-        height: 350px;
-        width: 40%;
-        background-color: rgb(207, 207, 207);
-        margin-top: 25px;
-        margin-left: 2%;
-        text-align: center;
-        float: left;
-    }
-    #boxDRPPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #DRPTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #DRPPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
@@ -2129,212 +1061,28 @@ a:hover {
     /*==========================*/
     /*======= CONTENIDO 1 ======*/
     /*==========================*/
-    .content1 {
-        height: 550px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_1 {
-        font-size: 55px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_1 {
-        font-size: 22px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 6%;
-        margin-left: 10%;
-    }
-    #linkboxPrd1 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_1 {
-        font-size: 22px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_A1 {
-        font-size: 20px;
-        font-family: sans-serif;
-        position: relative;
-        top: 35px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #mwaBox {
-        width: 100%;
-        height: 128px;
-        margin-top: 5%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 2 ======*/
     /*==========================*/
-    .content2 {        
-        height: 550px;
-        width: 100%;
-        margin-bottom: 10px;
-        background-color: rgb(177, 177, 177);
-        text-align: center;
-    }
-    #titlePrd_2 {
-        font-size: 45px;
-        font-family: sans-serif;
-        font-style: italic;
-        font-weight: 600;
-        color: rgb(93, 93, 93);
-        position: relative;
-        top: 30px;
-    }
-    #textPrd_2 {
-        font-size: 22px;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        position: relative;
-        color: rgb(70, 70, 70);
-        width: 80%;
-        margin-top: 4%;
-        margin-left: 10%;
-    }
-    #linkboxPrd2 {
-        height: 100px;
-        width: 100%;
-    }
-    #linkPrd_2 {
-        position: relative;
-        top: 10px;
-        font-size: 20px;
-        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    }
-    #linkPrd_2A {
-        font-size: 20px;
-        font-family: sans-serif;
-        position: relative;
-        top: 45px;
-        text-decoration-line: none;
-        padding: 15px;
-        border-radius: 10px;
-        background-color: rgb(167, 167, 167);
-    }
-    #sdnBox {
-        width: 100%;
-        height: 160px;
-        margin-top: 5%;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 3 ======*/
     /*==========================*/
-    .content3 {
-        height: 350px;
-        width: 100%;
-        background-color: rgb(141, 140, 138);
-        margin-top: 50px;
-    }
-    #boxTSPrg {
-        width: 60%;
-        height: 350px;
-        text-align: center;
-        padding: 45px;
-        float: left;
-    }
-    #boxTSaimg {
-        float: left;
-        text-align: left;
-        width: 40%;
-        height: 350px;
-        padding-top: 45px;
-        padding-left: 25px;
-    }
-    #SPrgTitle {
-        position: relative;
-        top: 30px;
-        left: 45px;
-        font-size: 37px;
-        color: rgb(0, 0, 0);
-        font-weight: 600;
-    }
-    #SPrgLink {
-        position: relative;
-        top: 55px;
-        left: 45px;
-        font-size: 17px;
-        color: rgb(16, 83, 144);
-    }
-    #SPrgLogo {
-        position: relative;
-        top: 50px;
-    }
+
+
     /*==========================*/
     /*======= CONTENIDO 4 ======*/
     /*==========================*/
-    #cont4and5 {
-        height: 400px;
-        width: 100%;
-        background-color: gainsboro;
-    }
 
-    .content4 {
-        height: 350px;
-        width: 40%;
-        background-color: rgb(204, 204, 204);
-        margin-top: 25px;
-        margin-left: 9%;
-        text-align: center;
-        float: left;
-    }
-    #boxSASPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #SASTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #SASPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+
     /*==========================*/
     /*======= CONTENIDO 5 ======*/
     /*==========================*/
-    .content5 {
-        height: 350px;
-        width: 40%;
-        background-color: rgb(207, 207, 207);
-        margin-top: 25px;
-        margin-left: 2%;
-        text-align: center;
-        float: left;
-    }
-    #boxDRPPrg {
-        width: 80%;
-        height: 80px;
-        margin-left: 10%;
-        position: relative;
-        top: 55px;
-    }
-    #DRPTitle {
-        font-size: 25px;
-        font-weight: 600;
-        color: black;
-    }
-    #DRPPrgLogo {
-        position: relative;
-        top: 80px;
-    }
+ 
+
     /*==========================*/
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
