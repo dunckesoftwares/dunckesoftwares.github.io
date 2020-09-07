@@ -129,24 +129,27 @@ a:hover {
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
     .content6 {
-        height: 500px;
+        height: 450px;
         width: 100%;
-        background-color: rgb(110, 110, 110);
+        background-color: rgb(59, 59, 59);
         margin-top: 50px;
         text-align: center;
     }
     #DSLogo {
         margin-top: 15%;
-        width: 267px;
-        height: 215px;
+        height: 150px;
+        width: 250px;
     }
     #boxTitleLogo {
         height: 50px;
         width: 100%;
+        position: relative;
+        top: 20px;
     }
     #DSLogoLink {
         color: white;
-        font-size: 30px;
+        font-size: 17px;
+        font-weight: 500;
     }
     #boxInfoLogo {
         margin-top: 50px;
@@ -154,17 +157,14 @@ a:hover {
         width: 100%;
         text-align: center;
     }
-    #DSKnowLink {
-        color: rgb(41, 80, 151);
-        font-size: 15px;
-        font-weight: 600;
-    }
     #DSText {
-        font-size: 11px;
+        font-size: 12px;
+        font-weight: 500;
         margin-left: 10%;
-        margin-top: 5%;
+        margin-top: 3%;
         width: 80%;
         height: 50px;
+        color: rgb(255, 255, 255);
     }
 
     /*================*/
@@ -284,43 +284,44 @@ a:hover {
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
     .content6 {
-        height: 510px;
+        height: 550px;
         width: 100%;
-        background-color: rgb(110, 110, 110);
+        background-color: rgb(59, 59, 59);
         margin-top: 50px;
         text-align: center;
     }
     #DSLogo {
-        margin-top: 7%;
-        width: 267px;
-        height: 215px;
+        margin-top: 10%;
+        height: 250px;
+        width: 350px;
     }
     #boxTitleLogo {
         height: 50px;
         width: 100%;
+        position: relative;
+        top: 20px;
     }
     #DSLogoLink {
         color: white;
-        font-size: 30px;
+        font-size: 23px;
+        font-weight: 500;
     }
     #boxInfoLogo {
-        margin-top: 35px;
+        margin-top: 50px;
         height: 100px;
         width: 100%;
         text-align: center;
     }
-    #DSKnowLink {
-        color: rgb(41, 80, 151);
-        font-size: 15px;
-        font-weight: 600;
-    }
     #DSText {
-        font-size: 14.5px;
-        margin-left: 10%;
-        margin-top: 5%;
-        width: 80%;
+        font-size: 14px;
+        font-weight: 500;
+        margin-left: 5%;
+        margin-top: 3%;
+        width: 90%;
         height: 50px;
+        color: rgb(255, 255, 255);
     }
+
 
     /*================*/
     /*===== REDES ====*/
@@ -443,43 +444,42 @@ a:hover {
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
     .content6 {
-        height: 510px;
+        height: 550px;
         width: 100%;
-        background-color: rgb(110, 110, 110);
+        background-color: rgb(59, 59, 59);
         margin-top: 50px;
         text-align: center;
     }
     #DSLogo {
-        margin-top: 5%;
-        width: 267px;
-        height: 215px;
+        margin-top: 2%;
     }
     #boxTitleLogo {
         height: 50px;
         width: 100%;
+        position: relative;
+        top: 20px;
     }
     #DSLogoLink {
         color: white;
-        font-size: 30px;
+        font-size: 23px;
+        font-weight: 500;
     }
     #boxInfoLogo {
-        margin-top: 35px;
+        margin-top: 50px;
         height: 100px;
         width: 100%;
         text-align: center;
     }
-    #DSKnowLink {
-        color: rgb(41, 80, 151);
-        font-size: 18px;
-        font-weight: 600;
-    }
     #DSText {
-        font-size: 17px;
+        font-size: 15px;
+        font-weight: 500;
         margin-left: 10%;
-        margin-top: 2%;
-        width: 80%;
+        margin-top: 3%;
+        width: 75%;
         height: 50px;
+        color: rgb(255, 255, 255);
     }
+
 
     /*================*/
     /*===== REDES ====*/
@@ -603,43 +603,42 @@ a:hover {
     /*======= CONTENIDO 6 ======*/
     /*==========================*/
     .content6 {
-        height: 510px;
+        height: 550px;
         width: 100%;
-        background-color: rgb(110, 110, 110);
+        background-color: rgb(59, 59, 59);
         margin-top: 50px;
         text-align: center;
     }
     #DSLogo {
-        margin-top: 5%;
-        width: 267px;
-        height: 215px;
+        margin-top: 2%;
     }
     #boxTitleLogo {
         height: 50px;
         width: 100%;
+        position: relative;
+        top: 20px;
     }
     #DSLogoLink {
         color: white;
-        font-size: 30px;
+        font-size: 23px;
+        font-weight: 500;
     }
     #boxInfoLogo {
-        margin-top: 35px;
+        margin-top: 70px;
         height: 100px;
         width: 100%;
         text-align: center;
     }
-    #DSKnowLink {
-        color: rgb(41, 80, 151);
-        font-size: 18px;
-        font-weight: 600;
-    }
     #DSText {
         font-size: 17px;
+        font-weight: 500;
         margin-left: 10%;
-        margin-top: 2%;
+        margin-top: 3%;
         width: 80%;
         height: 50px;
+        color: rgb(255, 255, 255);
     }
+
 
     /*================*/
     /*===== REDES ====*/
@@ -765,42 +764,40 @@ a:hover {
     .content6 {
         height: 550px;
         width: 100%;
-        background-color: rgb(110, 110, 110);
+        background-color: rgb(59, 59, 59);
         margin-top: 50px;
         text-align: center;
     }
     #DSLogo {
-        margin-top: 5%;
-        width: 267px;
-        height: 215px;
+        margin-top: 2%;
     }
     #boxTitleLogo {
         height: 50px;
         width: 100%;
+        position: relative;
+        top: 20px;
     }
     #DSLogoLink {
         color: white;
-        font-size: 30px;
+        font-size: 23px;
+        font-weight: 500;
     }
     #boxInfoLogo {
-        margin-top: 35px;
+        margin-top: 70px;
         height: 100px;
         width: 100%;
         text-align: center;
     }
-    #DSKnowLink {
-        color: rgb(161, 161, 161);
-        font-size: 18px;
-        font-weight: 600;
-    }
     #DSText {
         font-size: 17px;
+        font-weight: 500;
         margin-left: 10%;
-        margin-top: 2%;
+        margin-top: 3%;
         width: 80%;
         height: 50px;
-        color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
     }
+
 
     /*================*/
     /*===== REDES ====*/
@@ -927,41 +924,38 @@ a:hover {
     .content6 {
         height: 550px;
         width: 100%;
-        background-color: rgb(110, 110, 110);
+        background-color: rgb(59, 59, 59);
         margin-top: 50px;
         text-align: center;
     }
     #DSLogo {
-        margin-top: 5%;
-        width: 267px;
-        height: 215px;
+        margin-top: 2%;
     }
     #boxTitleLogo {
         height: 50px;
         width: 100%;
+        position: relative;
+        top: 20px;
     }
     #DSLogoLink {
         color: white;
-        font-size: 30px;
+        font-size: 23px;
+        font-weight: 500;
     }
     #boxInfoLogo {
-        margin-top: 35px;
+        margin-top: 70px;
         height: 100px;
         width: 100%;
         text-align: center;
     }
-    #DSKnowLink {
-        color: rgb(161, 161, 161);
-        font-size: 18px;
-        font-weight: 600;
-    }
     #DSText {
         font-size: 17px;
+        font-weight: 500;
         margin-left: 10%;
-        margin-top: 2%;
+        margin-top: 3%;
         width: 80%;
         height: 50px;
-        color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
     }
 
     /*================*/
@@ -1089,22 +1083,23 @@ a:hover {
     .content6 {
         height: 550px;
         width: 100%;
-        background-color: rgb(110, 110, 110);
+        background-color: rgb(59, 59, 59);
         margin-top: 50px;
         text-align: center;
     }
     #DSLogo {
-        margin-top: 5%;
-        width: 267px;
-        height: 215px;
+        margin-top: 2%;
     }
     #boxTitleLogo {
         height: 50px;
         width: 100%;
+        position: relative;
+        top: 20px;
     }
     #DSLogoLink {
         color: white;
-        font-size: 30px;
+        font-size: 23px;
+        font-weight: 500;
     }
     #boxInfoLogo {
         margin-top: 35px;
@@ -1112,18 +1107,14 @@ a:hover {
         width: 100%;
         text-align: center;
     }
-    #DSKnowLink {
-        color: rgb(161, 161, 161);
-        font-size: 18px;
-        font-weight: 600;
-    }
     #DSText {
         font-size: 17px;
+        font-weight: 500;
         margin-left: 10%;
-        margin-top: 2%;
+        margin-top: 3%;
         width: 80%;
         height: 50px;
-        color: rgb(0, 0, 0);
+        color: rgb(255, 255, 255);
     }
 
     /*================*/
